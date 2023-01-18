@@ -1,0 +1,6 @@
+{
+    "php.version": "C:/xampp/php/php.exe",
+    "files.autoSave": "afterDelay",
+    "editor.autoClosingQuotes": "languageDefined",
+    "liveServer.settings.port": 5501
+}
